@@ -6,3 +6,4 @@ modules which are used:
 3. matplotlib
 4. seaborn 
 
+apart the modules i used basic machine learning algoriths like linear regression for predecting and analysing the data.
